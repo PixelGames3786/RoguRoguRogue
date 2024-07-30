@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218d2039eb36bbe40923d60030e1e3ca, type: 3}
+  m_Name: TabibitoData
+  m_EditorClassIdentifier: 
+  JobName: "\u65C5\u4EBA"
+  JobSetumei: "\u57FA\u672C\u7684\u306A\u8077\u696D\n\u7279\u306B\u79C0\u3067\u3066\u3044\u308B\u6240\u306F\u306A\u3044"
+  HituyouTabikeiken: 0
+  CreateAddParameter:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  GrowParameter: 000000000a000000000000000a0000000a00000000000000000000000000000005000000050000000f00000000000000
+  SkillLevel: 050000000a0000000f00000014000000190000001e00000023000000280000002d00000032000000
+  SyutokuSkill: 4700000065000000020000001f00000011000000df0300000d000000160000000300000006000000

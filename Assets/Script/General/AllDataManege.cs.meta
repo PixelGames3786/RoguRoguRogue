@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 68bc507873c7d0140b0fd25ead4303d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CharactorDataBase: {instanceID: 0}
+  - SyuzokuDataBase: {instanceID: 0}
+  - JobDataBase: {instanceID: 0}
+  - ItemDataBase: {instanceID: 0}
+  - BagDataBase: {instanceID: 0}
+  - SkillDataBase: {instanceID: 0}
+  - SomethingDataBase: {instanceID: 0}
+  - TownDataBase: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

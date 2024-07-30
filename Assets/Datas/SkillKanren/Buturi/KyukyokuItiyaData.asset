@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: KyukyokuItiyaData
+  m_EditorClassIdentifier: 
+  SkillName: "\u7A76\u6975\u306E\u4E00\u77E2"
+  SkillSetumei: "\u96D1\u306A\u540D\u524D\u3060\u3051\u3069\u672C\u5F53\u306B\u5F37\u3044\n\u5F13\u88C5\u5099\u3060\u3068\u5A01\u529B\u304C\u4E0A\u304C\u308B"
+  SkillNumber: 21
+  SkillType: 1
+  SkillSprite: {fileID: 9181458800857786008, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 6
+  SkillIryoku: 28
+  TokusyuType: 7
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 1400000014000000
+  SkillSyouhi: 0e0000000e000000
+  AddBaffNum: 0
+  Particle: {fileID: 4128806937565164683, guid: dcc7b27623d2c6648b2acd842ec5aa5d,
+    type: 3}
+  SoundEffect: 16

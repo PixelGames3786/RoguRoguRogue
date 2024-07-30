@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: EnKenData
+  m_EditorClassIdentifier: 
+  SkillName: "\u708E\u5263"
+  SkillSetumei: "\u5263\u306B\u708E\u3092\u307E\u3068\u3046\n\u7F8E\u5473\u3057\u3044\u713C\u8089\u304C\u4F5C\u308C\u308B"
+  SkillNumber: 3
+  SkillType: 1
+  SkillSprite: {fileID: 839613960307503501, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 1
+  SkillIryoku: 4
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0500000000000000
+  SkillSyouhi: 0000000004000000
+  AddBaffNum: 0
+  Particle: {fileID: 2912950154978774877, guid: ac733e23dd6591c44a5e8ca40ae1c51e,
+    type: 3}
+  SoundEffect: 19

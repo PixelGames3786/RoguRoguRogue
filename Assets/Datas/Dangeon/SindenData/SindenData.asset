@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fd93a48cdc43124d9ad5ce20a802ec3, type: 3}
+  m_Name: SindenData
+  m_EditorClassIdentifier: 
+  KaisouList:
+  - {fileID: 11400000, guid: 055bd0c3427051d4db273fe31614ca9f, type: 2}
+  - {fileID: 11400000, guid: e8773776e88c84d45be10c7275157226, type: 2}
+  - {fileID: 11400000, guid: e1f614cdfb29b9343be269494a9c3c7a, type: 2}
+  - {fileID: 11400000, guid: 17293f65f31006e47a4f7352eedb08ae, type: 2}
+  - {fileID: 11400000, guid: 2b5be5abce92c8a4d84d01e2381e78a6, type: 2}
+  - {fileID: 11400000, guid: 98fb530efc10d6a4080598b5e9e40208, type: 2}
+  - {fileID: 11400000, guid: 7872bb45277bb5f4f84f4b31d8f80d4f, type: 2}
+  DangeonNumber: 5
+  DangeonName: "\u795E\u6BBF"
+  DangeonText: {fileID: 4900000, guid: bc6bb5a7a86d50b42bf1c4dcdee67d67, type: 3}
+  BattleBGM: 8

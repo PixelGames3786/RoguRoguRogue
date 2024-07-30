@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: Bakudan
+  m_EditorClassIdentifier: 
+  ItemName: "\u7206\u5F3E"
+  ItemSetumei: "\u5358\u7D14\u306A\u4F5C\u308A\u306E\u7206\u5F3E"
+  ItemNumber: 101
+  ItemType: 4
+  WeaponType: 7
+  ItemZokusei: 1
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 7
+  ItemSprite: {fileID: -7545308893384266056, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 0300000006000000
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 5
+  KonyuNedan: 20
+  TokusyuType: 0
+  CanUseBasyo: 1
+  Particle: {fileID: 3144846208418765419, guid: 3aeeb3c42ba032d47a3b7466441582a1,
+    type: 3}
+  SoundEffect: 0

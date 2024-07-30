@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: PoisonGel
+  m_EditorClassIdentifier: 
+  ItemName: "\u30DD\u30A4\u30BA\u30F3\u30B2\u30EB"
+  ItemSetumei: "\u6BD2\u3005\u3057\u3044\u898B\u305F\u76EE\u3092\u3057\u3066\u3044\u308B\n"
+  ItemNumber: 143
+  ItemType: 4
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 8
+  ItemSprite: {fileID: 4174437739693104780, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 61
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 4
+  KonyuNedan: 20
+  TokusyuType: 0
+  CanUseBasyo: 1
+  Particle: {fileID: 0}
+  SoundEffect: 0

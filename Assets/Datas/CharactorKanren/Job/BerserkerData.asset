@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218d2039eb36bbe40923d60030e1e3ca, type: 3}
+  m_Name: BerserkerData
+  m_EditorClassIdentifier: 
+  JobName: "\u72C2\u6226\u58EB"
+  JobSetumei: "ATK\u3068INT\u306B\u5168\u632F\u308A\u3057\u305F\u8077\u696D\n\u3060\u304C\u9632\u5FA1\u9762\u306F\u2026\u2026"
+  HituyouTabikeiken: 14
+  CreateAddParameter:
+  - 0
+  - 0.4
+  - 0
+  - 0.4
+  - 0.1
+  - 0.4
+  - 0.1
+  - 0
+  - 0
+  - 0.1
+  - 0
+  - 0
+  GrowParameter: 0000000019000000050000001e000000000000001e0000000000000005000000050000000a0000000500000005000000
+  SkillLevel: 050000000a0000000f00000014000000190000001e00000023000000280000002d00000032000000
+  SyutokuSkill: 040000006d000000e0030000170000001b000000e10300004300000022000000e20300001c000000

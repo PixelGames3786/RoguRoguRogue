@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: Magai
+  m_EditorClassIdentifier: 
+  ItemName: "\u9B54\u93A7"
+  ItemSetumei: "\u9B54\u529B\u7D50\u6676\u3067\u4F5C\u3089\u308C\u305F\u93A7\nDEF+8
+    MIN+10"
+  ItemNumber: 57
+  ItemType: 2
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: 8394117368592285000, guid: 123c40f06e5da1447b68288dc06b3324,
+    type: 3}
+  AddParameter: 00000000000000000000000008000000000000000a0000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 120
+  KonyuNedan: 1500
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

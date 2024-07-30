@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: KyoganKudakiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u5DE8\u5CA9\u7815\u304D"
+  SkillSetumei: "\u5DE8\u5CA9\u3059\u3089\u3082\u7815\u304F\u3068\u3044\u3046\u65A7\u306E\u4E00\u767A\n\u3069\u3063\u3061\u304B\u3063\u3066\u3044\u3046\u3068\u69CC\u306E\u6280\u306A\u6C17\u304C\u3059\u308B\n\u65A7\u88C5\u5099\u3060\u3068\u5A01\u529B\u304C\u4E0A\u304C\u308B"
+  SkillNumber: 11
+  SkillType: 1
+  SkillSprite: {fileID: -624846022978356668, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 4
+  SkillIryoku: 12
+  TokusyuType: 3
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: f6ffffff0f000000
+  SkillSyouhi: 0a00000002000000
+  AddBaffNum: 0
+  Particle: {fileID: 7404641872125043455, guid: 4e1da86ee3b605d4c8d861ddc04d4525,
+    type: 3}
+  SoundEffect: 24

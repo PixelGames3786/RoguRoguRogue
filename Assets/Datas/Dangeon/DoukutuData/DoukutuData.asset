@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fd93a48cdc43124d9ad5ce20a802ec3, type: 3}
+  m_Name: DoukutuData
+  m_EditorClassIdentifier: 
+  KaisouList:
+  - {fileID: 11400000, guid: 6da37dacc04c67b47a22f26b2e0e9088, type: 2}
+  - {fileID: 11400000, guid: 919e27e7274f4624e999754ac7d7b43c, type: 2}
+  - {fileID: 11400000, guid: 421c833e3bc1b614aa4d743c228fe152, type: 2}
+  DangeonNumber: 0
+  DangeonName: "\u6D1E\u7A9F"
+  DangeonText: {fileID: 4900000, guid: bc6bb5a7a86d50b42bf1c4dcdee67d67, type: 3}
+  BattleBGM: 8

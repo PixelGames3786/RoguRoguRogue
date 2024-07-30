@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: SekaijuNekko
+  m_EditorClassIdentifier: 
+  ItemName: "\u4E16\u754C\u6A39\u306E\u6839\u3063\u3053"
+  ItemSetumei: "\u30B7\u30E3\u30AD\u30B7\u30E3\u30AD\u3057\u3066\u3044\u3066\u7F8E\u5473\u3057\u3044\nHPMP+80"
+  ItemNumber: 95
+  ItemType: 4
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 3
+  ItemSprite: {fileID: -1618287786334218353, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 80
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 150
+  KonyuNedan: 500
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

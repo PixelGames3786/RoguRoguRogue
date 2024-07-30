@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: Kemuridama
+  m_EditorClassIdentifier: 
+  ItemName: "\u7159\u7389"
+  ItemSetumei: "\u30B8\u30E3\u30D1\u30CB\u30FC\u30BA\u30C9\u30ED\u30F3\u30A2\u30A4\u30C6\u30E0\n\u5FC5\u305A\u6226\u95D8\u304B\u3089\u9003\u3052\u308B\u3053\u3068\u304C\u3067\u304D\u308B"
+  ItemNumber: 131
+  ItemType: 4
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 10
+  ItemSprite: {fileID: -7480274173548084428, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 25
+  KonyuNedan: 150
+  TokusyuType: 0
+  CanUseBasyo: 1
+  Particle: {fileID: 0}
+  SoundEffect: 0

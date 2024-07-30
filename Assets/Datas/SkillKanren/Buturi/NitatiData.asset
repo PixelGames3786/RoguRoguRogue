@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: NitatiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u4E8C\u592A\u5200"
+  SkillSetumei: "\u4E8C\u767A\u306E\u65AC\u6483\u3092\u7D9A\u3051\u3066\u7E70\u308A\u51FA\u3059"
+  SkillNumber: 8
+  SkillType: 1
+  SkillSprite: {fileID: -5344989553849273148, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 8
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0a0000000a000000
+  SkillSyouhi: 0300000003000000
+  AddBaffNum: 0
+  Particle: {fileID: 4182471026896646056, guid: f74199450d1d78140a4e7963415bb414,
+    type: 3}
+  SoundEffect: 14

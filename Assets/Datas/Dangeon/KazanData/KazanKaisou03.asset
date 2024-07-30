@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cba920f59767c64f9d3ca6bb48230be, type: 3}
+  m_Name: KazanKaisou03
+  m_EditorClassIdentifier: 
+  SinkouParcent: 15
+  DangeonSprite: {fileID: 4211552593947554746, guid: 9ab07831cab3cc2489c8d8fe08719208,
+    type: 3}
+  IventKakuritu: 0000000005000000140000001e00000064000000
+  HasseiIvent: 03000000040000000200000001000000
+  EnemyKakuritu: 000000001e0000003c0000004b00000064000000
+  SouguEnemy: 0f0000000c0000000d0000001c000000
+  TakarabakoKakuritu: 0000000019000000410000004b000000550000005a0000005f00000064000000
+  TakarabakoItem: ffffffff00000000480000004d0000005b0000002d00000009000000
+  TakarabakoDamege: 080000000a000000
+  TakarabakoGold: 080000000d000000
+  HitoyasumiKaihuku: 080000000c000000
+  GyousyouData: {fileID: 11400000, guid: 16aca629489d43a409a8cca16b17de62, type: 2}
+  BossData: {fileID: 0}
+  TextGyousuuMin: 25
+  TextGyousuuMax: 28
+  DangeonBGM: 4

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: KazeSeirei
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 27
+  SyuzokuName: "\u98A8\u306E\u7CBE\u970A"
+  SyuzokuSprite: {fileID: 21300000, guid: 84cfe7bd2e30680428b2cc9bc02d0250, type: 3}
+  SyuzokuSetumei: "\u8AAC\u660E\u4EEE"
+  KougekiType: 1
+  SaiteiParameter: 070000000f0000000c000000040000000500000006000000030000000200000003000000040000000300000002000000
+  SaikouParameter: 090000001300000010000000070000000700000009000000060000000400000005000000060000000500000004000000
+  KoudouPattern: 00000000460000005f00000064000000
+  Koudou: 000000000100000002000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 3f0000004000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 2
+  WeekWeaponType: 0200000003000000
+  WeekZokusei: 01000000
+  StrongWeaponType: 06000000
+  StrongZokusei: 04000000
+  GetExp: 060000000b000000
+  GetGold: 080000000d000000
+  SoundEffect: 0

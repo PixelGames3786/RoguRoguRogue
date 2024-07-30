@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: NeraiutiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u72D9\u3044\u6483\u3061"
+  SkillSetumei: "\u72E9\u4EBA\u306E\u5FC5\u9700\u6280\u80FD\n\u5F13\u88C5\u5099\u3060\u3068\u5A01\u529B\u304C\u4E0A\u304C\u308B"
+  SkillNumber: 17
+  SkillType: 1
+  SkillSprite: {fileID: -8474468106052542453, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 5
+  TokusyuType: 7
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 1e000000fbffffff
+  SkillSyouhi: 0200000002000000
+  AddBaffNum: 0
+  Particle: {fileID: 4128806937565164683, guid: dcc7b27623d2c6648b2acd842ec5aa5d,
+    type: 3}
+  SoundEffect: 16

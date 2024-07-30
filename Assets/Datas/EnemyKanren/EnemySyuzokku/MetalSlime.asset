@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: MetalSlime
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 3
+  SyuzokuName: "\u30E1\u30BF\u30EB\u30B9\u30E9\u30A4\u30E0"
+  SyuzokuSprite: {fileID: 21300000, guid: 42f873a2c13fdb34c981a819798b6208, type: 3}
+  SyuzokuSetumei: "\u4EEE\u8AAC\u660E"
+  KougekiType: 0
+  SaiteiParameter: 01000000010000000000000001000000e703000001000000e70300000100000001000000280000000100000001000000
+  SaikouParameter: 02000000060000000000000002000000e803000002000000e80300000200000002000000330000000200000002000000
+  KoudouPattern: 0000000064000000
+  Koudou: 00000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 000000000000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  GetExp: 5000000065000000
+  GetGold: 0a00000015000000
+  SoundEffect: 0

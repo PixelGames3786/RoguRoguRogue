@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: SuzumeBee
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 8
+  SyuzokuName: "\u30B9\u30BA\u30E1\u30D3\u30FC"
+  SyuzokuSprite: {fileID: 21300000, guid: 960e04458d99bc14a89b84c6a481d322, type: 3}
+  SyuzokuSetumei: "\u8AAC\u660E\u4EEE"
+  KougekiType: 0
+  SaiteiParameter: 080000000c000000000000000a0000000500000003000000020000000200000004000000070000000200000003000000
+  SaikouParameter: 0a0000000f000000000000000d00000007000000040000000500000004000000040000000a0000000400000005000000
+  KoudouPattern: 000000004b00000064000000
+  Koudou: 0000000001000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 860000000000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 0
+  WeekWeaponType: 03000000
+  WeekZokusei: 01000000
+  StrongWeaponType: 
+  StrongZokusei: 02000000
+  GetExp: 080000000b000000
+  GetGold: 0a0000000d000000
+  SoundEffect: 0

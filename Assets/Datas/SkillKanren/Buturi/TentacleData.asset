@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: TentacleData
+  m_EditorClassIdentifier: 
+  SkillName: "\u30C6\u30F3\u30BF\u30AF\u30EB"
+  SkillSetumei: "\u89E6\u624B\u3067\u3081\u3063\u305F\u6253\u3061\u306B\u3059\u308B"
+  SkillNumber: 137
+  SkillType: 1
+  SkillSprite: {fileID: 0}
+  SkillZokusei: 3
+  SkillIryoku: 12
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0a0000000a000000
+  SkillSyouhi: 0c00000005000000
+  AddBaffNum: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

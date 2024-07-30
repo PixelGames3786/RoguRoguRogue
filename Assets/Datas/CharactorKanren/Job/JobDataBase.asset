@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0edf72907d3c054db9617b4191477d2, type: 3}
+  m_Name: JobDataBase
+  m_EditorClassIdentifier: 
+  JobDataList:
+  - {fileID: 11400000, guid: 46e0e7dd1f234f04f8d31c855a352b6f, type: 2}
+  - {fileID: 11400000, guid: bf3ab934ebf6f5f4687fada6e0ffe3d3, type: 2}
+  - {fileID: 11400000, guid: 9ddd4e3286f5de54cb8d314fe8a18bef, type: 2}
+  - {fileID: 11400000, guid: 27ddb24f5b9c3bc43aff27fc5497dda7, type: 2}
+  - {fileID: 11400000, guid: 5c8b7b3b3c8ec5840ba7230a40d3d91b, type: 2}
+  - {fileID: 11400000, guid: 0fe0dae028b4e95488f192ca0ab50e6e, type: 2}
+  - {fileID: 11400000, guid: f0358ddb2fb50ee4a9b746e4c2f83a32, type: 2}
+  - {fileID: 11400000, guid: 15cf36a76f0916443a9c3fef17b8c842, type: 2}
+  - {fileID: 11400000, guid: b40033b335005d943bbb0597e53d3ce3, type: 2}

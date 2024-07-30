@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: MiniReCureData
+  m_EditorClassIdentifier: 
+  SkillName: "\u30DF\u30CB\u30EA\u30AD\u30E5\u30A2"
+  SkillSetumei: "4\u30BF\u30FC\u30F3\u306E\u9593 \u6BCE\u30BF\u30FC\u30F3\u3061\u3087\u3063\u3068\u3060\u3051\u56DE\u5FA9\u3059\u308B"
+  SkillNumber: 41
+  SkillType: 9
+  SkillSprite: {fileID: -1821972502903057282, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 0
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 
+  SkillSyouhi: 0000000002000000
+  AddBaffNum: 31
+  Particle: {fileID: 7423001762509641432, guid: 81240967a40cc5a428a12d4eb7998545,
+    type: 3}
+  SoundEffect: 13

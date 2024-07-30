@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: KaenYaData
+  m_EditorClassIdentifier: 
+  SkillName: "\u706B\u708E\u77E2"
+  SkillSetumei: "\u5148\u7AEF\u306B\u706B\u3092\u3064\u3051\u305F\u77E2\u3092\u653E\u3064\n\u660E\u304B\u308A\u306B\u3082\u306A\u308B\n\u5F13\u88C5\u5099\u3060\u3068\u5A01\u529B\u304C\u4E0A\u304C\u308B"
+  SkillNumber: 18
+  SkillType: 1
+  SkillSprite: {fileID: -3600698226357934150, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 1
+  SkillIryoku: 8
+  TokusyuType: 7
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 1900000000000000
+  SkillSyouhi: 0200000004000000
+  AddBaffNum: 0
+  Particle: {fileID: 8309369985411060033, guid: 504ae3806192d63429e37ee1aec73c9c,
+    type: 3}
+  SoundEffect: 16

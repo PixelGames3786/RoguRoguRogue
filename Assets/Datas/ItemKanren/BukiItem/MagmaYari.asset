@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: MagmaYari
+  m_EditorClassIdentifier: 
+  ItemName: "\u30DE\u30B0\u30DE\u306E\u69CD"
+  ItemSetumei: "\u71C3\u3086\u308B\u7A42\u5148\u304C\u5F31\u70B9\u3092\u8CAB\u304F\nATK+16
+    SPD+8"
+  ItemNumber: 28
+  ItemType: 1
+  WeaponType: 2
+  ItemZokusei: 1
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -6556663221385753721, guid: 5006e4becde84db4abb4e0da637eda93,
+    type: 3}
+  AddParameter: 0000000000000000100000000000000000000000000000000000000000000000080000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 85
+  BukiHissatu: 5
+  BykyakuNedan: 45
+  KonyuNedan: 400
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 3704466524122795669, guid: 76e21ccba1836464381c0ee480b605de,
+    type: 3}
+  SoundEffect: 25

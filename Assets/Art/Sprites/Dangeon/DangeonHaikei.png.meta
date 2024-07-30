@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 9ab07831cab3cc2489c8d8fe08719208
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6558721275728944330
+    second: DoukutuHaikei1
+  - first:
+      213: 2740719080649593489
+    second: DoukutuHaikei2
+  - first:
+      213: 3474009167891232793
+    second: KazanHaikei1
+  - first:
+      213: 4211552593947554746
+    second: KazanHaikei2
+  - first:
+      213: -5145013318493150231
+    second: YoukanHaikei3
+  - first:
+      213: 6830155332403409232
+    second: SindenHaikei1
+  - first:
+      213: 1315539565639006607
+    second: HokoraHaikei1
+  - first:
+      213: 5260032931573879422
+    second: MoriHaikei1
+  - first:
+      213: 4941915697937949715
+    second: MoriHaikei2
+  - first:
+      213: -4792870419518094868
+    second: KazanHaikei3
+  - first:
+      213: -6400923762638262865
+    second: YoukanHaikei1
+  - first:
+      213: -1509933229227938581
+    second: YoukanHaikei4
+  - first:
+      213: 1693961034509665322
+    second: SindenHaikei2
+  - first:
+      213: -6944377421888029075
+    second: SindenHaikei4
+  - first:
+      213: -8104467299470791580
+    second: MizuumiHaikei1
+  - first:
+      213: -8294491901057129511
+    second: MizuumiHaikei2
+  - first:
+      213: -4731061007769912144
+    second: MizuumiHaikei3
+  - first:
+      213: -1753526047309311252
+    second: YoukanHaikei2
+  - first:
+      213: -3541879639432944957
+    second: YoukanHaikei5
+  - first:
+      213: 7944609121910148530
+    second: SindenHaikei3
+  - first:
+      213: 983828516302182616
+    second: SindenHaikei5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoukutuHaikei1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accde9c2042450b50800000000000000
+      internalID: 6558721275728944330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoukutuHaikei2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192114f9b7df80620800000000000000
+      internalID: 2740719080649593489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KazanHaikei1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187b9e9ee8263030800000000000000
+      internalID: 3474009167891232793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KazanHaikei2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37e1b35c0727a30800000000000000
+      internalID: 4211552593947554746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoukanHaikei3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ef8275ad3998b0800000000000000
+      internalID: -5145013318493150231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SindenHaikei1
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05135ac461699ce50800000000000000
+      internalID: 6830155332403409232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HokoraHaikei1
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8972e1d34cb14210800000000000000
+      internalID: 1315539565639006607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoriHaikei1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72515915146ff840800000000000000
+      internalID: 5260032931573879422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoriHaikei2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a485d426359440800000000000000
+      internalID: 4941915697937949715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KazanHaikei3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce185264fbd4c7db0800000000000000
+      internalID: -4792870419518094868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoukanHaikei1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade69d50c95b27a0800000000000000
+      internalID: -6400923762638262865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoukanHaikei4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec6f4d5ab3ab0be0800000000000000
+      internalID: -1509933229227938581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SindenHaikei2
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a244d4df598228710800000000000000
+      internalID: 1693961034509665322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SindenHaikei4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6efe16178d90af90800000000000000
+      internalID: -6944377421888029075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MizuumiHaikei1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c26413ee5278f80800000000000000
+      internalID: -8104467299470791580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MizuumiHaikei2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a225ef8b04ec80800000000000000
+      internalID: -8294491901057129511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MizuumiHaikei3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3c256415e75eb0800000000000000
+      internalID: -4731061007769912144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoukanHaikei2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2dbbdb9593aa7e0800000000000000
+      internalID: -1753526047309311252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoukanHaikei5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2296ecb37b8dec0800000000000000
+      internalID: -3541879639432944957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SindenHaikei3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd48ce67ebe04e60800000000000000
+      internalID: 7944609121910148530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SindenHaikei5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85712b2d247ad00800000000000000
+      internalID: 983828516302182616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KazanHaikei1: 3474009167891232793
+      YoukanHaikei5: -3541879639432944957
+      YoukanHaikei2: -1753526047309311252
+      YoukanHaikei4: -1509933229227938581
+      MizuumiHaikei2: -8294491901057129511
+      YoukanHaikei3: -5145013318493150231
+      SindenHaikei1: 6830155332403409232
+      MizuumiHaikei3: -4731061007769912144
+      MoriHaikei1: 5260032931573879422
+      DoukutuHaikei2: 2740719080649593489
+      HokoraHaikei1: 1315539565639006607
+      DoukutuHaikei1: 6558721275728944330
+      SindenHaikei2: 1693961034509665322
+      YoukanHaikei1: -6400923762638262865
+      KazanHaikei3: -4792870419518094868
+      KazanHaikei2: 4211552593947554746
+      SindenHaikei4: -6944377421888029075
+      SindenHaikei5: 983828516302182616
+      MoriHaikei2: 4941915697937949715
+      SindenHaikei3: 7944609121910148530
+      MizuumiHaikei1: -8104467299470791580
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

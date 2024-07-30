@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: NoneData
+  m_EditorClassIdentifier: 
+  SkillName: "\u7121"
+  SkillSetumei: "\u7121\u306B\u8AAC\u660E\u306F\u306A\u3044\u3088"
+  SkillNumber: 0
+  SkillType: 0
+  SkillSprite: {fileID: 21300000, guid: a18c216736dbc394c870269d3c1ea64b, type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 0
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0000000000000000
+  SkillSyouhi: 0000000000000000
+  AddBaffNum: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: ActPus
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 17
+  SyuzokuName: "\u30A2\u30AF\u30C8\u30D1\u30B9"
+  SyuzokuSprite: {fileID: 21300000, guid: c8a3e1cc7b3c4914db2a51c5225ba2a0, type: 3}
+  SyuzokuSetumei: "\u8AAC\u660E\u4EEE"
+  KougekiType: 0
+  SaiteiParameter: 180000001e00000003000000140000000f0000000f0000000f0000000e0000000e000000100000000c0000000e000000
+  SaikouParameter: 1b0000002400000006000000190000001300000013000000130000001100000011000000150000000f00000010000000
+  KoudouPattern: 0000000064000000
+  Koudou: 00000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 000000000000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 3
+  WeekWeaponType: 02000000
+  WeekZokusei: 04000000
+  StrongWeaponType: 00000000
+  StrongZokusei: 01000000
+  GetExp: 1600000019000000
+  GetGold: 1200000017000000
+  SoundEffect: 0

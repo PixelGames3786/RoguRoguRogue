@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: YokoNagiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u6A2A\u8599\u304E"
+  SkillSetumei: "\u6A2A\u306B\u4E00\u8599\u304E\u3059\u308B\n\u69CD\u88C5\u5099\u3060\u3068\u5A01\u529B\u304C\u4E0A\u304C\u308B"
+  SkillNumber: 14
+  SkillType: 1
+  SkillSprite: {fileID: 3430463551379258362, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 4
+  TokusyuType: 5
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0f00000005000000
+  SkillSyouhi: 0000000005000000
+  AddBaffNum: 0
+  Particle: {fileID: 6510835638633316481, guid: 570c534e3bf2f9a468136f05dd38219b,
+    type: 3}
+  SoundEffect: 25

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: Reafs
+  m_EditorClassIdentifier: 
+  ItemName: "\u8449\u3063\u3071"
+  ItemSetumei: "\u5168\u3066\u3092\u8131\u304E\u6368\u3066\u308B\u3053\u3068\u306B\u3088\u3063\u3066\u767A\u63EE\u3055\u308C\u308B\u80FD\u529B\nATK+3
+    SPD+10"
+  ItemNumber: 52
+  ItemType: 2
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -8504901116781155169, guid: 123c40f06e5da1447b68288dc06b3324,
+    type: 3}
+  AddParameter: 00000000000000000300000000000000000000000000000000000000000000000a0000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 5
+  KonyuNedan: 50
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

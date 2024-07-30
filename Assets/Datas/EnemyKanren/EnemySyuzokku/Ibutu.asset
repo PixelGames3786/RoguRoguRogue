@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: Ibutu
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 23
+  SyuzokuName: "\u30A4\u30D6\u30C4"
+  SyuzokuSprite: {fileID: 21300000, guid: 83ee72bc4e02655479bda7b08c705072, type: 3}
+  SyuzokuSetumei: "\u8AAC\u660E\u4EEE"
+  KougekiType: 0
+  SaiteiParameter: 2a000000b40000003200000056000000520000004a0000004a000000460000004600000044000000360000002e000000
+  SaikouParameter: 2c000000dd0000003d0000005b000000550000004d0000004d00000049000000490000004b0000003b00000033000000
+  KoudouPattern: 0000000064000000
+  Koudou: 00000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 000000000000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 7
+  WeekWeaponType: 01000000
+  WeekZokusei: 04000000
+  StrongWeaponType: 05000000
+  StrongZokusei: 07000000
+  GetExp: 2c00000033000000
+  GetGold: 6a0000006f000000
+  SoundEffect: 0

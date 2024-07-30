@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218d2039eb36bbe40923d60030e1e3ca, type: 3}
+  m_Name: KariudoData
+  m_EditorClassIdentifier: 
+  JobName: "\u72E9\u4EBA"
+  JobSetumei: "\u547D\u4E2D\u3001\u56DE\u907F\u3001\u904B\u306B\u9577\u3051\u308B\n\u68EE\u3068\u5171\u306B\u66AE\u3089\u3059"
+  HituyouTabikeiken: 5
+  CreateAddParameter:
+  - 0
+  - 0.1
+  - 0
+  - 0.1
+  - 0
+  - 0
+  - 0
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0
+  GrowParameter: 000000000f000000000000000f0000000a00000000000000000000000a0000000a0000000a0000000a00000000000000
+  SkillLevel: 050000000a0000000f00000014000000190000001e00000023000000280000002d00000032000000
+  SyutokuSkill: 11000000680000000a0000002000000017000000e3030000210000000f0000001800000015000000

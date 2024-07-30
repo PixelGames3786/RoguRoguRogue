@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: KansatsuGanData
+  m_EditorClassIdentifier: 
+  SkillName: "\u89B3\u5BDF\u773C"
+  SkillSetumei: "\u76F8\u624B\u306E\u3059\u3079\u3066\u3092\u898B\u629C\u304F\n\u76F8\u624B\u306B\u5F31\u70B9\u66DD\u9732\u3092\u4ED8\u4E0E"
+  SkillNumber: 108
+  SkillType: 10
+  SkillSprite: {fileID: -7603550974044617828, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 0
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0000000000000000
+  SkillSyouhi: 0c0000000a000000
+  AddBaffNum: 64
+  Particle: {fileID: 0}
+  SoundEffect: 0

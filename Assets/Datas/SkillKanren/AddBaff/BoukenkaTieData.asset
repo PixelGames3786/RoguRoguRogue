@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: BoukenkaTieData
+  m_EditorClassIdentifier: 
+  SkillName: "\u5192\u967A\u5BB6\u306E\u77E5\u6075"
+  SkillSetumei: "\u5192\u967A\u5BB6\u306E\u672C\u61D0\u3054\u89A7\u3042\u308C\n\u81EA\u5206\u306B\u5192\u967A\u5BB6\u306E\u77E5\u6075\u3092\u4ED8\u4E0E"
+  SkillNumber: 106
+  SkillType: 9
+  SkillSprite: {fileID: 1371722767929848988, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 0
+  SkillIryoku: 0
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0000000000000000
+  SkillSyouhi: 0600000006000000
+  AddBaffNum: 44
+  Particle: {fileID: 0}
+  SoundEffect: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: BossPoison
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 5
+  SyuzokuName: "\u30DC\u30B9\u30DD\u30A4\u30BA\u30F3"
+  SyuzokuSprite: {fileID: 21300000, guid: 254f54630ad840147a3bad01848843bd, type: 3}
+  SyuzokuSetumei: "\u4EEE\u8AAC\u660E"
+  KougekiType: 0
+  SaiteiParameter: 070000001e00000008000000070000000500000002000000020000000200000002000000010000000200000001000000
+  SaikouParameter: 0900000029000000100000000a0000000800000006000000060000000600000005000000040000000500000004000000
+  KoudouPattern: 0000000064000000
+  Koudou: 00000000
+  DropItemKakuritu: 000000001900000064000000
+  DropItem: 8f00000000000000
+  SkillAndMagic: 000000000000000000000000000000000000000000000000
+  KougekiWeapon: 0
+  KougekiZokusei: 0
+  WeekWeaponType: 02000000
+  WeekZokusei: 01000000020000000300000004000000
+  StrongWeaponType: 
+  StrongZokusei: 
+  GetExp: 0c00000011000000
+  GetGold: 080000000d000000
+  SoundEffect: 0

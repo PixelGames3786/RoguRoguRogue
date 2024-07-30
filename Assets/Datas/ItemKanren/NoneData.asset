@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: NoneData
+  m_EditorClassIdentifier: 
+  ItemName: "\u7121"
+  ItemSetumei: "\u7121\u306B\u8AAC\u660E\u306F\u306A\u3044\u3088"
+  ItemNumber: 0
+  ItemType: 0
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: 21300000, guid: a18c216736dbc394c870269d3c1ea64b, type: 3}
+  AddParameter: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 70
+  BukiHissatu: 0
+  BykyakuNedan: 0
+  KonyuNedan: 0
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 3704466524122795669, guid: 76e21ccba1836464381c0ee480b605de,
+    type: 3}
+  SoundEffect: 15

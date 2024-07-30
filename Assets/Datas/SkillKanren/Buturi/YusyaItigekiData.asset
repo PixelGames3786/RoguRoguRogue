@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: YusyaItigekiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u52C7\u8005\u306E\u4E00\u6483"
+  SkillSetumei: "\u52C7\u8005\u306E\u6E3E\u8EAB\u306E\u4E00\u6483"
+  SkillNumber: 29
+  SkillType: 1
+  SkillSprite: {fileID: 3885627720441575143, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 6
+  SkillIryoku: 36
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0f0000000f000000
+  SkillSyouhi: 1e0000001e000000
+  AddBaffNum: 0
+  Particle: {fileID: 8874672533532665254, guid: ae12147d2f08fd849bebe925b15f1ac5,
+    type: 3}
+  SoundEffect: 17

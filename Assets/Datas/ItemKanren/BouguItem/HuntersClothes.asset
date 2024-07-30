@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: HuntersClothes
+  m_EditorClassIdentifier: 
+  ItemName: "\u72E9\u4EBA\u306E\u670D"
+  ItemSetumei: "\u96A0\u3057\u30DD\u30B1\u30C3\u30C8\u304C\u6240\u3005\u306B\u4ED5\u8FBC\u307E\u308C\u3066\u3044\u308B\nDEF+4
+    SPD+4"
+  ItemNumber: 51
+  ItemType: 2
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 07000000
+  StrongWeaponType: 
+  StrongZokusei: 02000000
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -8031171196239344154, guid: 123c40f06e5da1447b68288dc06b3324,
+    type: 3}
+  AddParameter: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 60
+  KonyuNedan: 300
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

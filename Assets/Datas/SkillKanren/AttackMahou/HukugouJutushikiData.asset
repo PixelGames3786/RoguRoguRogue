@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c1f4b23a439da4da06aedc322b89b2, type: 3}
+  m_Name: HukugouJutushikiData
+  m_EditorClassIdentifier: 
+  SkillName: "\u8907\u5408\u8853\u5F0F"
+  SkillSetumei: "\u69D8\u3005\u306A\u9B54\u6CD5\u3092\u91CD\u306D\u639B\u3051\u3059\u308B"
+  SkillNumber: 68
+  SkillType: 2
+  SkillSprite: {fileID: 2669129353045042521, guid: ff329e9d3c278814bb6e41ca72c8ec0d,
+    type: 3}
+  SkillZokusei: 6
+  SkillIryoku: 34
+  TokusyuType: 0
+  TaiouParameter: 0
+  CanUseTown: 0
+  MeityuAndHissatu: 0a0000000a000000
+  SkillSyouhi: 0500000016000000
+  AddBaffNum: 0
+  Particle: {fileID: 5737240779771309639, guid: 04fda868f566c664bb8bace186dac10a,
+    type: 3}
+  SoundEffect: 26

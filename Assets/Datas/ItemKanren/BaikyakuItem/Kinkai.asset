@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: Kinkai
+  m_EditorClassIdentifier: 
+  ItemName: "\u91D1\u584A"
+  ItemSetumei: "\u306A\u305C\uFF27\u306E\u5F62\u306A\u306E\u304B\u306F\u308F\u304B\u3089\u306A\u3044"
+  ItemNumber: 161
+  ItemType: 5
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -5155286959928113125, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 120
+  KonyuNedan: 400
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: GoldTuti
+  m_EditorClassIdentifier: 
+  ItemName: "\u91D1\u306E\u69CC"
+  ItemSetumei: "\u3053\u308C\u305E\u91D1\u69CC\nATK+16 DEF-4"
+  ItemNumber: 18
+  ItemType: 1
+  WeaponType: 6
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: 2184573999606318424, guid: 5006e4becde84db4abb4e0da637eda93,
+    type: 3}
+  AddParameter: 000000000000000010000000fcffffff00000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 60
+  BukiHissatu: 20
+  BykyakuNedan: 24
+  KonyuNedan: 130
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 3704466524122795669, guid: 76e21ccba1836464381c0ee480b605de,
+    type: 3}
+  SoundEffect: 15

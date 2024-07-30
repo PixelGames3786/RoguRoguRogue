@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: YakusouNoTaba
+  m_EditorClassIdentifier: 
+  ItemName: "\u85AC\u8349\u306E\u675F"
+  ItemSetumei: "\u85AC\u8349\u3092\u675F\u306D\u305F\u3082\u306E\u3002\u91CF\u3067\u52DD\u8CA0\u3059\u308B\nHP+8"
+  ItemNumber: 72
+  ItemType: 4
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 1
+  ItemSprite: {fileID: 694526425948758957, guid: 339dcf509c1cf9046bb2c6b5c5182251,
+    type: 3}
+  AddParameter: 0800000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 8
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 5
+  KonyuNedan: 22
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0

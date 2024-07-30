@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: KinoKen
+  m_EditorClassIdentifier: 
+  ItemName: "\u6728\u306E\u5263"
+  ItemSetumei: "\u8106\u3044\u3051\u3069\u306A\u3044\u3088\u308A\u307E\u3057\u3055\nATK+3"
+  ItemNumber: 2
+  ItemType: 1
+  WeaponType: 1
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -5038228968525335616, guid: 5006e4becde84db4abb4e0da637eda93,
+    type: 3}
+  AddParameter: 0000000000000000030000000000000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 80
+  BukiHissatu: 0
+  BykyakuNedan: 4
+  KonyuNedan: 15
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 3704466524122795669, guid: 76e21ccba1836464381c0ee480b605de,
+    type: 3}
+  SoundEffect: 14

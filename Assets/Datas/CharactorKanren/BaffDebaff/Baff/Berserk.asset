@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a5e6530315cf240b6cd81b1959ffc1, type: 3}
+  m_Name: Berserk
+  m_EditorClassIdentifier: 
+  BaffNumber: 45
+  BaffName: "\u30D0\u30FC\u30B5\u30FC\u30AF"
+  BaffSetumei: "\u72C2\u6226\u58EB\u306E\u672C\u61D0\nATK+10 DEF-8 INT+10 MIN-8"
+  BaffSprite: {fileID: -1786120445735545079, guid: 56e360f77788a18449666d9e3c344129,
+    type: 3}
+  BaffKeizokuTurn: 4
+  BaffKeizokuType: 0
+  BaffUpType: 0
+  BaffAddParameter: 0000000000000000000000000a000000f8ffffff0a000000f8ffffff00000000000000000000000000000000000000000000000000000000

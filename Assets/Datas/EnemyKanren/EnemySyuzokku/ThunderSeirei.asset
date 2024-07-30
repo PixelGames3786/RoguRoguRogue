@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c8be30aaa10ad409c96b700c351ccc, type: 3}
+  m_Name: ThunderSeirei
+  m_EditorClassIdentifier: 
+  SyuzokuInt: 31
+  SyuzokuName: "\u96F7\u306E\u7CBE\u970A"
+  SyuzokuSprite: {fileID: 21300000, guid: 59191c7bf838e7846a9ede2fc920aeb9, type: 3}
+  SyuzokuSetumei: "\u8AAC\u660E\u4EEE"
+  KougekiType: 1
+  SaiteiParameter: 2d000000be00000064000000040000004a000000520000004e0000004000000044000000400000003e00000002000000
+  SaikouParameter: 2f000000dd00000079000000070000004f00000057000000510000004500000047000000470000004100000004000000
+  KoudouPattern: 0000000064000000
+  Koudou: 00000000
+  DropItemKakuritu: 
+  DropItem: 
+  SkillAndMagic: 000000000000000000000000000000000000000000000000
+  KougekiWeapon: 7
+  KougekiZokusei: 0
+  WeekWeaponType: 0200000003000000
+  WeekZokusei: 
+  StrongWeaponType: 06000000
+  StrongZokusei: 
+  GetExp: 3000000035000000
+  GetGold: 7200000081000000
+  SoundEffect: 0

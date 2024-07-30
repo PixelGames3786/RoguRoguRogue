@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503fcf8eabf352e4693daf0b5828ac86, type: 3}
+  m_Name: TetuYoroi
+  m_EditorClassIdentifier: 
+  ItemName: "\u9244\u306E\u93A7"
+  ItemSetumei: "\u4E16\u4EE3\u3092\u8D85\u3048\u3066\u611B\u3055\u308C\u308B\u4E00\u54C1\nDEF+4"
+  ItemNumber: 46
+  ItemType: 2
+  WeaponType: 0
+  ItemZokusei: 0
+  WeekWeaponType: 
+  WeekZokusei: 
+  StrongWeaponType: 
+  StrongZokusei: 02000000
+  KougekiType: 0
+  SyouhiItemType: 0
+  ItemSprite: {fileID: -6257853566621836759, guid: 123c40f06e5da1447b68288dc06b3324,
+    type: 3}
+  AddParameter: 0000000000000000000000000400000000000000000000000000000000000000000000000000000000000000
+  KaihukuSuuji: 0
+  KaihukuWariai: 0
+  AddBaffNumber: 0
+  ItemDamege: 
+  BukiMeityu: 0
+  BukiHissatu: 0
+  BykyakuNedan: 15
+  KonyuNedan: 125
+  TokusyuType: 0
+  CanUseBasyo: 0
+  Particle: {fileID: 0}
+  SoundEffect: 0
